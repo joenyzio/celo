@@ -1,2 +1,3 @@
 # celo
-Celo tutorials
+Completed tutorials from Celo
+
